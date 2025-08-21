@@ -1,4 +1,4 @@
-# Solidity_token_assignment\
+# Solidity_token_assignment
 
 ## Decentralization is important in today's world as 
 By using Decentrailized sytem we are moving away from centralized 
